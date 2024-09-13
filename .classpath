@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/api_outros/cuckoo.jar" sourcepath="/Cuckoo"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/repo-bibliotecasJava/SankhyaW-extensions.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/repo-bibliotecasJava/jape.jar" sourcepath="/JAPE"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/repo-bibliotecasJava/javax.ejb-api-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/repo-bibliotecasJava/mge-modelcore.jar" sourcepath="/MGE-Modelcore-3.16.0"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/repo-bibliotecasJava/sanutil.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/repo-bibliotecasJava/sanws.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/api_outros/servlet.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
